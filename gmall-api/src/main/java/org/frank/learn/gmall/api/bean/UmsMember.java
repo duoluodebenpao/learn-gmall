@@ -1,13 +1,12 @@
-package com.atguigu.gmall.bean;
+package org.frank.learn.gmall.api.bean;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.io.Serializable;
-import java.math.BigDecimal;
 import java.util.Date;
 
-public class UmsMember implements Serializable{
+public class UmsMember implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -146,7 +145,6 @@ public class UmsMember implements Serializable{
         this.icon = icon;
     }
 
-
     public Date getBirthday() {
         return birthday;
     }
@@ -179,7 +177,6 @@ public class UmsMember implements Serializable{
         this.personalizedSignature = personalizedSignature;
     }
 
-
     public int getIntegration() {
         return integration;
     }
@@ -211,9 +208,4 @@ public class UmsMember implements Serializable{
     public void setHistoryIntegration(int historyIntegration) {
         this.historyIntegration = historyIntegration;
     }
-
-
-
-
-
 }

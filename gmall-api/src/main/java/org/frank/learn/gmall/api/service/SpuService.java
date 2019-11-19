@@ -1,8 +1,10 @@
-package com.atguigu.gmall.service;
+package org.frank.learn.gmall.api.service;
 
-import com.atguigu.gmall.bean.PmsProductImage;
-import com.atguigu.gmall.bean.PmsProductInfo;
-import com.atguigu.gmall.bean.PmsProductSaleAttr;
+
+
+import org.frank.learn.gmall.api.bean.PmsProductImage;
+import org.frank.learn.gmall.api.bean.PmsProductInfo;
+import org.frank.learn.gmall.api.bean.PmsProductSaleAttr;
 
 import java.util.List;
 

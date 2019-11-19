@@ -1,4 +1,4 @@
-package com.atguigu.gmall.bean;
+package org.frank.learn.gmall.api.bean;
 
 
 

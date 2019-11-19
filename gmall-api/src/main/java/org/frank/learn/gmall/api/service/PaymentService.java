@@ -1,6 +1,6 @@
-package com.atguigu.gmall.service;
+package org.frank.learn.gmall.api.service;
 
-import com.atguigu.gmall.bean.PaymentInfo;
+import org.frank.learn.gmall.api.bean.PaymentInfo;
 
 import java.util.Map;
 

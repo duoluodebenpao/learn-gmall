@@ -1,8 +1,6 @@
-package com.atguigu.gmall.service;
+package org.frank.learn.gmall.api.service;
 
-import com.atguigu.gmall.bean.OmsOrder;
-
-import java.math.BigDecimal;
+import org.frank.learn.gmall.api.bean.OmsOrder;
 
 public interface OrderService {
 

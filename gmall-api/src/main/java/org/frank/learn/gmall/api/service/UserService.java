@@ -1,7 +1,9 @@
-package com.atguigu.gmall.service;
+package org.frank.learn.gmall.api.service;
 
-import com.atguigu.gmall.bean.UmsMember;
-import com.atguigu.gmall.bean.UmsMemberReceiveAddress;
+
+
+import org.frank.learn.gmall.api.bean.UmsMember;
+import org.frank.learn.gmall.api.bean.UmsMemberReceiveAddress;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package com.atguigu.gmall.service;
+package org.frank.learn.gmall.api.service;
 
-import com.atguigu.gmall.bean.PmsBaseCatalog1;
-import com.atguigu.gmall.bean.PmsBaseCatalog2;
-import com.atguigu.gmall.bean.PmsBaseCatalog3;
+import org.frank.learn.gmall.api.bean.PmsBaseCatalog1;
+import org.frank.learn.gmall.api.bean.PmsBaseCatalog2;
+import org.frank.learn.gmall.api.bean.PmsBaseCatalog3;
 
 import java.util.List;
 

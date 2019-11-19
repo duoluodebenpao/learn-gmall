@@ -1,4 +1,4 @@
-package com.atguigu.gmall.bean;
+package org.frank.learn.gmall.api.bean;
 
 import javax.persistence.Id;
 import java.io.Serializable;

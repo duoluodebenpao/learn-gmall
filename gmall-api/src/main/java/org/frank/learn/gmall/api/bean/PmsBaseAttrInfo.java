@@ -1,6 +1,4 @@
-package com.atguigu.gmall.bean;
-
-import com.atguigu.gmall.bean.PmsBaseAttrValue;
+package org.frank.learn.gmall.api.bean;
 
 import javax.persistence.*;
 import java.io.Serializable;

@@ -1,6 +1,6 @@
-package com.atguigu.gmall.service;
+package org.frank.learn.gmall.api.service;
 
-import com.atguigu.gmall.bean.OmsCartItem;
+import org.frank.learn.gmall.api.bean.OmsCartItem;
 
 import java.util.List;
 

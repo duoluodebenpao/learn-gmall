@@ -1,7 +1,7 @@
-package com.atguigu.gmall.service;
+package org.frank.learn.gmall.api.service;
 
-import com.atguigu.gmall.bean.PmsSearchParam;
-import com.atguigu.gmall.bean.PmsSearchSkuInfo;
+import org.frank.learn.gmall.api.bean.PmsSearchParam;
+import org.frank.learn.gmall.api.bean.PmsSearchSkuInfo;
 
 import java.util.List;
 

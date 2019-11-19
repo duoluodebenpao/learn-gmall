@@ -1,6 +1,6 @@
-package com.atguigu.gmall.service;
+package org.frank.learn.gmall.api.service;
 
-import com.atguigu.gmall.bean.PmsSkuInfo;
+import org.frank.learn.gmall.api.bean.PmsSkuInfo;
 
 import java.math.BigDecimal;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.List;
 public interface SkuService {
     void saveSkuInfo(PmsSkuInfo pmsSkuInfo);
 
-    PmsSkuInfo getSkuById(String skuId,String ip);
+    PmsSkuInfo getSkuById(String skuId, String ip);
 
     List<PmsSkuInfo> getSkuSaleAttrValueListBySpu(String productId);
 

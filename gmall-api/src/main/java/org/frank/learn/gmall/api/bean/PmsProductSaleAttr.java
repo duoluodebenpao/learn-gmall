@@ -1,6 +1,4 @@
-package com.atguigu.gmall.bean;
-
-import com.atguigu.gmall.bean.PmsProductSaleAttrValue;
+package org.frank.learn.gmall.api.bean;
 
 import javax.persistence.Column;
 import javax.persistence.Id;
