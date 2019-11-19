@@ -27,6 +27,7 @@ temp/
 .shelf
 # Intellij default build output directory
 out/
+/target
 
 currentpid
 
@@ -39,3 +40,5 @@ currentpid
 
 #python
 __pycache__/
+
+
