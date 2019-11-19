@@ -27,7 +27,12 @@ temp/
 .shelf
 # Intellij default build output directory
 out/
-/target/
+
+
+target/
+*.class
+*.jar
+*.lst
 
 currentpid
 
